@@ -5,6 +5,8 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 * Basic knowledge of JavaScript syntax
 * Basic knowledge of working with JSON and JavaScript objects.
 
+[View Demo](https://teri.netlify.com/)
+
 ### Goals
 
 Being comfortable writing and building a simple Github user portfolio app that connects to the [Github API](https://api.github.com/users/terieyenike). <br />It retrieves the data with JavaScript, and displays it on the front end of a website(client-side).
