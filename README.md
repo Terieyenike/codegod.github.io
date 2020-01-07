@@ -1,6 +1,16 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-## Available Scripts
+## Prerequisite
+
+* Basic knowledge of JavaScript syntax
+* Basic knowledge of working with JSON and JavaScript objects.
+
+### Goals
+
+Being comfortable writing and building a simple Github user portfolio app that connects to the [Github API](https://api.github.com/users/terieyenike). <br />It retrieves the data with JavaScript, and displays it on the front end of a website(client-side).
+
+
+### Available Scripts
 
 In the project directory, you can run:
 
@@ -11,6 +21,12 @@ Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
 
 The page will reload if you make edits.<br />
 You will also see any lint errors in the console.
+
+### Install the dependencies on your local environment
+
+```
+npm install
+```
 
 ### `yarn test`
 
