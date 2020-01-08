@@ -6,7 +6,44 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 * Basic knowledge of working with JSON and JavaScript objects.
 
 [View Demo](https://teri.netlify.com/)
-[Fi]
+
+<hr />
+
+## Deploy your React app in less than 5 minutes with Firebase Hosting
+
+Since I already have my create-react-app created, this is the step by step tutorial
+
+### Install the Firebase tools that will allow you deploy your app. Run this in your terminal
+```
+npm install firebase-tools -g
+```
+
+### Login to Firebase
+For this process to work, you must be in your root directory of your React app. For me, it is **~/teyenike/devandgit/github-portfolio**. Also you will be prompted to enter your email and password for authentication.
+Run the following in terminal
+```
+firebase Login
+```
+
+### Initialize Firebase in your React app
+Now that you're logged in, you will need to initialize Firebase in your React application. Run the following
+```
+firebase init
+```
+
+A series of questions are asked for the initialization of your app.
+
+
+### Final step
+
+Deployment of your app to Firebase with the following command.
+```
+firebase deploy
+```
+
+Link to the deployed app, [click here](https://github-port.firebaseapp.com/)
+
+<hr />
 
 ### Goals
 
