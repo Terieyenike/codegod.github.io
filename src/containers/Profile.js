@@ -29,6 +29,7 @@ const GithubUrl = styled.a`
   font-size: 1rem;
   text-decoration: none;
   margin: 0;
+  color: #00b3e6;
 `;
 
 class Profile extends Component {

@@ -6,6 +6,7 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 * Basic knowledge of working with JSON and JavaScript objects.
 
 [View Demo](https://teri.netlify.com/)
+[Fi]
 
 ### Goals
 
